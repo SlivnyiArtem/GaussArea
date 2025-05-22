@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Generator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Generator_jar</output-path>
+    <root id="archive" name="GaussArea.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="GaussArea" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/github/java-romp/jromp/3.0.0/jromp-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

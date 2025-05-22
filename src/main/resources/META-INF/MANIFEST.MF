@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: org.example.Main
+Class-Path: jromp-3.0.0.jar commons-lang3-3.17.0.jar
+
